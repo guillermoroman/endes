@@ -1,4 +1,4 @@
-[Solucion](www.github.com/guillermoroman/endes-t3-daw-demo-1)
+[Solucion](https://github.com/guillermoroman/endes-t3-daw-demo-1)
 
 ## Ejercicio 1: Verificar si un número es par
 
