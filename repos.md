@@ -4,4 +4,4 @@
 
 [Tema 3 - Solución ejercicio Aulas por apellidos](https://github.com/guillermoroman/endes-t3-junit-apellidos-daw)
 
-[Tema 3 - Enunciado y Solución - Ejercicio de personajes](https://github.com/guillermoroman/endes-t3-personaje-junit)
+[Tema 3 - Ejercicio BankAccount](https://github.com/guillermoroman/endes-t3-junit-bankAccount-daw)
