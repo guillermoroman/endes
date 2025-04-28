@@ -1,0 +1,22 @@
+**Ejercicio: Sistema de gestión de vehículos para empleados de una empresa**
+
+Una empresa gestiona su flota de vehículos y su asignación a los empleados.  
+
+Cada **Vehículo** tiene los siguientes atributos privados comunes: matrícula, marca, modelo y fecha de adquisición. Otro campo, combustible, deberá tener necesariamente uno de dos valores: "gasolina" o "diesel". Además, existen dos tipos de vehículos:  
+- **Coche**, que añade el atributo **plazas** (número de asientos disponibles).
+- **Furgoneta**, que añade el atributo **capacidad** (en volumen o peso, según convenga).
+
+Cada vehículo puede estar asignado como máximo a un único empleado o estar disponible.  
+
+Cada **Empleado** tiene un identificador único, nombre, apellidos, número de teléfono y puede tener **como máximo un vehículo asignado**. Esta asignacion vendrá representada por un campo en la presente clase.  
+
+Los empleados pertenecen a una **Sede** de la empresa.  
+Cada **Sede** agrupa a varios empleados y gestiona una colección de vehículos disponibles en dicha sede. Si una sede deja de existir, se entiende que sus empleados y vehiculos son reasignados a otras sedes. Asímismo, en un futuro se implementará un sistema de cesión de vehículos a otras sedes.
+
+Se requiere:  
+- Implementar las clases **Vehiculo** (abstracta), **Coche** y **Furgoneta**.  
+- Implementar las clases **Empleado** y **Sede**.  
+- Añadir los métodos necesarios para:  
+  - Asignar un vehículo a un empleado.
+  - Desasignar un vehículo de un empleado.
+  - Listar todos los vehículos disponibles en una sede.
