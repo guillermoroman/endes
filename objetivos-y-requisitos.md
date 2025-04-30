@@ -8,6 +8,9 @@ La diferencia clave entre **objetivos específicos** y **requisitos** en un proy
 - Están más ligados a los **beneficios del negocio o del usuario**.
 - Tienen un enfoque más **estratégico**.
 
+**SMART**
+Los objevos deberán cumplir los criterios: Específico, Medible, Alcanzable, Relevante, Temporal.
+
 **Ejemplos:**
 - Permitir a los clientes reservar citas en línea.
 - Aumentar el tráfico web en un 20% en 3 meses.
